@@ -1,14 +1,14 @@
-# A Byte of Python
+# Piton sancması
 
-"A Byte of Python" is a free book on programming using the Python language. It serves as a tutorial or guide to the Python language for a beginner audience. If all you know about computers is how to save text files, then this is the book for you.
+"Piton sancması" Piton dilində proqramlaşdırma haqqında pulsuz kitabdır. Kitab, yeni başlayanalar üçün öyrədici və ya soraq kitabçası kimi xidmət edir. Əgər kompyuter barədə bilikləriniz mətn fayllarının yaddaşa verilməsindən ibarətdirsə, bu kitab sizin üçündür.
 
-## For Python version 3
+## Pitonun 3-cü versiyası üçün
 
-This book will teach you to use Python version 3. There will also be guidance for you to adapt to the older and more common Python version 2 in the book.
+Bu kitab sizə Pitonun 3-cü versiyasından istifadəni öyrədəcək. Burada, həmçinin köhnə, xüsusilə 2-ci versiyaya uyğunlaşmaq üçün rəhbərlik olacaqdır.
 
-## Who reads A Byte of Python? {#who-reads-bop}
+## Kimlər "Piton sancması" oxuyur? {#who-reads-bop}
 
-Here are what people are saying about the book:
+Burada oxuyucuların kitab haqqında dedikləri qeyd edilib:
 
 > This is the best beginner's tutorial I've ever seen! Thank you for your effort.
 > -- [Walt Michalik](mailto:wmich50@theramp.net)
@@ -226,57 +226,57 @@ Here are what people are saying about the book:
 > I also saw that you do not mind that readers send you a thank note in your book. So I really like your book and appreciate it. Thanks.
 > -- [Isen I-Chun Chao](mailto:chao926@gmail.com)
 
-The book is even used by NASA! It is used in their [Jet Propulsion Laboratory](http://dsnra.jpl.nasa.gov/software/Python/byte-of-python/output/byteofpython_html/) with their Deep Space Network project.
+Kitab, hətta NASA tərəfindən də istifadə edilib! Bun onların [Raket Güc Mexanizmləri Laboratoriyasında (Jet Propulsion Laboratory)](http://dsnra.jpl.nasa.gov/software/Python/byte-of-python/output/byteofpython_html/) Deep Space Network layihəsi ilə birgə istifadə edilmişdir.
 
-## Academic Courses
+## Akademik kurslar
 
-This book is/was being used as instructional material in various educational institutions:
+Kitab müxtəlif təhsil qurumları tərəfindən dərs vəsaiti kimi istifadə edilib və edilir.
 
-- 'Principles of Programming Languages' course at [Vrije Universiteit, Amsterdam](http://www.few.vu.nl/~nsilvis/PPL/2007/index.html)
-- 'Basic Concepts of Computing' course at [University of California, Davis](http://www.cs.ucdavis.edu/courses/exp_course_desc/10.html)
-- 'Programming With Python' course at [Harvard University](http://www.people.fas.harvard.edu/~preshman/python_winter.html)
-- 'Introduction to Programming' course at [University of Leeds](http://www.comp.leeds.ac.uk/acom1900/)
-- 'Introduction to Application Programming' course at [Boston University](http://www.cs.bu.edu/courses/cs108/materials.html)
-- 'Information Technology Skills for Meteorology' course at [University of Oklahoma](http://gentry.metr.ou.edu/byteofpython/)
-- 'Geoprocessing' course at [Michigan State University](http://www.msu.edu/~ashton/classes/825/index.html)
-- 'Multi Agent Semantic Web Systems' course at the [University of Edinburgh](http://homepages.inf.ed.ac.uk/ewan/masws/)
-- 'Introduction to Computer Science and Programming' at [MIT OpenCourseWare](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/references/)
-- 'Basic programming at the Faculty of Social Sciences, University of Ljubljana, Slovenia' -- [Aleš Žiberna](mailto:ales.ziberna@fdv.uni-lj.si) says _"I (and my predecessor) have been using your book as the main literature for this course"_
+- 'Proqramlaşdırma dillərinin prinsipləri' kursu [Vrije Universiteit, Amsterdam](http://www.few.vu.nl/~nsilvis/PPL/2007/index.html)
+- 'Hesablamanın əsas anlayışları' kursu [Kaliforniya Universiteti, Davis](http://www.cs.ucdavis.edu/courses/exp_course_desc/10.html)
+- 'Piton ilə proqramlaşdırma' kursu [Harvard Universiteti](http://www.people.fas.harvard.edu/~preshman/python_winter.html)
+- 'Proqramlaşdırmaya giriş' kursu [Lids Universiteti](http://www.comp.leeds.ac.uk/acom1900/)
+- 'Tətbiqi proqramlaşdırmaya giriş' kursu [Boston Universiteti](http://www.cs.bu.edu/courses/cs108/materials.html)
+- 'Meteorologiya üçün informasiya texnologiyaları' kursu [Oklahoma Universiteti](http://gentry.metr.ou.edu/byteofpython/)
+- 'Geoprosessinq' kursu [Miçiqan Dövlət Universiteti](http://www.msu.edu/~ashton/classes/825/index.html)
+- 'Çox agentli Semantik Veb Sistemləri' kursu [Edinburq Universiteti](http://homepages.inf.ed.ac.uk/ewan/masws/)
+- 'Komputer elmləri və proqramlaşdırmaya giriş' kursu [MIT OpenCourseWare](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/references/)
+- 'Lyublyana Universiteti, Sosial Elmlər Fakultəsində "Proqramlaşdırmanın əsasları", Sloveniya' -- [Aleš Žiberna](mailto:ales.ziberna@fdv.uni-lj.si) deyir: _"Mən (və məndən öncəkilər) sizin kitabı bu kurs üçün əsas ədəbiyyat kimi istifadə edib."_
 
-## License
+## Lisenziya
 
-This book is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+Bu kitab [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) ilə lisenziyalaşdırılıb.
 
-This means:
+Bu o deməkdir ki:
 
-- You are free to Share i.e. to copy, distribute and transmit this book
-- You are free to Remix i.e. to make changes to this book (especially translations)
-- You are free to use it for commercial purposes
+- Bu kitabı paylaşmaqda yəni, surətini çıxarmaqda, paylamaqda, ötürməkdə azadsınız.
+- Bu kitabı yenidən tərtib etməkdə yəni, kitabı dəyişməkdə (xüsusilə tərcümə etməkdə) azadsınız.
+- Bu kitabı kommersial məqsədlərlə istifadə etməkdə azadsınız.
 
-Please note:
+Zəhmət olmasa nəzərə alın:
 
-- Please do *not* sell electronic or printed copies of the book unless you have clearly and prominently mentioned in the description that these copies are *not* from the original author of this book.
-- Attribution *must* be shown in the introductory description and front page of the document by linking back to {{ book.officialUrl }} and clearly indicating that the original text can be fetched from this location.
-- All the code/scripts provided in this book is licensed under the [3-clause BSD License](http://www.opensource.org/licenses/bsd-license.php) unless otherwise noted.
+- Xahiş edirik, təsvir hissəsində kitabın əsl müəllifdən *olmadığını* aydın və aşkar göstərmədən, kitabın elektron və ya çap variantını *satmayın*.
+- Kitabın giriş təsvirində və üz qabığında {{ book.officialUrl }} istinad edərək səlahiyyət *göstərilməli* və əsl mətnin bu ünvandan əldə edilə biləcəyi aydın bildirilməlidir.
+- Bu kitabda göstərilən bütün proqram kodları digər lisenziya qeyd edilənə qədər [BSD Lisenziyasının 3-cü bəndi](http://www.opensource.org/licenses/bsd-license.php) ilə lisenziyalaşdırılıb.
 
-## Read Now
+## İndi oxu
 
-You can read it online at {{ book.officialUrl }}
+Kitabı {{ book.officialUrl }} ünvanından onlayn oxuya bilərsiniz.
 
-## Buy The Book
+## Kitabı al
 
-A printed hardcopy of the book can be purchased at {{ book.buyBookUrl }} for your offline reading pleasure, and to support the continued development and improvement of this book.
+Sizin oflayn oxu rahatlığınız və kitabın davamlı inkişafı və təkmilləşməsinə dəstək üçün, kitabın çap olunmuş nəşri {{ book.buyBookUrl }} ünvanından alına bilər.
 
-## Download
+## Yüklə
 
-Visit {{ book.downloadUrl }} for the following types of downloads:
+Aşağıdakı yükləmə formalarından biri üçün {{ book.downloadUrl }} ünvanına daxil olun:
 
-- [PDF (for desktop reading, etc.)](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python)
-- [EPUB (for iPhone/iPad, ebook readers, etc.)](https://www.gitbook.com/download/epub/book/swaroopch/byte-of-python)
-- [Mobi (for Kindle)](https://www.gitbook.com/download/mobi/book/swaroopch/byte-of-python)
+- [PDF (Masaüstü və s. oxu üçün)](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python)
+- [EPUB (iPhone/iPad, elektron kitab və s. üçün)](https://www.gitbook.com/download/epub/book/swaroopch/byte-of-python)
+- [Mobi (Kindle üçün)](https://www.gitbook.com/download/mobi/book/swaroopch/byte-of-python)
 
-Visit {{ book.sourceUrl }} for the raw content (for suggesting corrections, changes, translating, etc.)
+Xam mətn üçün (düzəliş təklifi, dəyişiklik, tərcümə və s. üçün) {{ book.sourceUrl }} ünvanına daxil olun.
 
-## Read the book in your native language
+## Kitabı öz dilinizdə oxuyun
 
-If you are interested in reading or contributing translations of this book to other human languages, please see "Translations" chapter.
+Əgər kitabı digər insan dilində oxumağa və ya tərcüməsinə töhvə verməyə maraqlısınızsa, zəhmət olmasa "Tərcümələr" bölməsinə baxın.
