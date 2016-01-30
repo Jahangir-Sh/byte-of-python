@@ -239,9 +239,9 @@ Kitab müxtəlif təhsil qurumları tərəfindən dərs vəsaiti kimi istifadə 
 - 'Tətbiqi proqramlaşdırmaya giriş' kursu [Boston Universiteti](http://www.cs.bu.edu/courses/cs108/materials.html)
 - 'Meteorologiya üçün informasiya texnologiyaları' kursu [Oklahoma Universiteti](http://gentry.metr.ou.edu/byteofpython/)
 - 'Geoprosessinq' kursu [Miçiqan Dövlət Universiteti](http://www.msu.edu/~ashton/classes/825/index.html)
-- Çox agentli Semantik Veb Sistemləri' kursu [Edinburq Universiteti](http://homepages.inf.ed.ac.uk/ewan/masws/)
-- 'Kopyuter elmləri və proqramlaşdırmaya giriş' kursu [MIT OpenCourseWare](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/references/)
-- 'Lyublyana Universiteti Sosial Elmlər Fakultəsində "Proqramlaşdırmanın əsasları", Sloveniya' -- [Aleš Žiberna](mailto:ales.ziberna@fdv.uni-lj.si) deyir: _"Mən (və məndən öncəkilər) sizin kitabı bu kurs üçün əsas ədəbiyyat kimi istifadə edib."_
+- 'Çox agentli Semantik Veb Sistemləri' kursu [Edinburq Universiteti](http://homepages.inf.ed.ac.uk/ewan/masws/)
+- 'Komputer elmləri və proqramlaşdırmaya giriş' kursu [MIT OpenCourseWare](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/references/)
+- 'Lyublyana Universiteti, Sosial Elmlər Fakultəsində "Proqramlaşdırmanın əsasları", Sloveniya' -- [Aleš Žiberna](mailto:ales.ziberna@fdv.uni-lj.si) deyir: _"Mən (və məndən öncəkilər) sizin kitabı bu kurs üçün əsas ədəbiyyat kimi istifadə edib."_
 
 ## Lisenziya
 
@@ -256,12 +256,12 @@ Bu o deməkdir ki:
 Zəhmət olmasa nəzərə alın:
 
 - Xahiş edirik, təsvir hissəsində kitabın əsl müəllifdən *olmadığını* aydın və aşkar göstərmədən, kitabın elektron və ya çap variantını *satmayın*.
-- Kitabın giriş təsvirində və üz qabığında {{ book.officialUrl }} istinad edərək səlahiyyət *göstərilməli* və əsl mətnin bu yerdən əldə edilə biləcəyi aydın bildirilməlidir.
+- Kitabın giriş təsvirində və üz qabığında {{ book.officialUrl }} istinad edərək səlahiyyət *göstərilməli* və əsl mətnin bu ünvandan əldə edilə biləcəyi aydın bildirilməlidir.
 - Bu kitabda göstərilən bütün proqram kodları digər lisenziya qeyd edilənə qədər [BSD Lisenziyasının 3-cü bəndi](http://www.opensource.org/licenses/bsd-license.php) ilə lisenziyalaşdırılıb.
 
 ## İndi oxu
 
-Bunu {{ book.officialUrl }} ünvanından onlayn oxuya bilərsiniz.
+Kitabı {{ book.officialUrl }} ünvanından onlayn oxuya bilərsiniz.
 
 ## Kitabı al
 
