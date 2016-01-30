@@ -1,14 +1,14 @@
 # Piton sancması
 
-"Piton sancması" Piton dilində proqramlaşdırma haqqında pulsuz kitabdır. Kitab, yeni başlayan kütlə üçün öyrədici və ya soraq kitabçası kimi xidmət edir. Əgər kompyuter barədə bilikləriniz mətn fayllarının yaddaşa verilməsindən ibarətdirsə, bu kitab sizin üçündür.
+"Piton sancması" Piton dilində proqramlaşdırma haqqında pulsuz kitabdır. Kitab, yeni başlayanalar üçün öyrədici və ya soraq kitabçası kimi xidmət edir. Əgər kompyuter barədə bilikləriniz mətn fayllarının yaddaşa verilməsindən ibarətdirsə, bu kitab sizin üçündür.
 
 ## Pitonun 3-cü versiyası üçün
 
-Bu kitab sizə Pitonun 3-cü versiyasından istifadəni öyrədəcək. Burada, həmçinin köhnə, xüsusilə 2-ci versiyaya uyğunlaşdırmaq üçün rəhbərlik olacaqdır.
+Bu kitab sizə Pitonun 3-cü versiyasından istifadəni öyrədəcək. Burada, həmçinin köhnə, xüsusilə 2-ci versiyaya uyğunlaşmaq üçün rəhbərlik olacaqdır.
 
 ## Kimlər "Piton sancması" oxuyur? {#who-reads-bop}
 
-Burada insanların kitab haqqında dedikləri qeyd edilib:
+Burada oxuyucuların kitab haqqında dedikləri qeyd edilib:
 
 > This is the best beginner's tutorial I've ever seen! Thank you for your effort.
 > -- [Walt Michalik](mailto:wmich50@theramp.net)
@@ -241,42 +241,42 @@ Kitab müxtəlif təhsil qurumları tərəfindən dərs vəsaiti kimi istifadə 
 - 'Geoprosessinq' kursu [Miçiqan Dövlət Universiteti](http://www.msu.edu/~ashton/classes/825/index.html)
 - Çox agentli Semantik Veb Sistemləri' kursu [Edinburq Universiteti](http://homepages.inf.ed.ac.uk/ewan/masws/)
 - 'Kopyuter elmləri və proqramlaşdırmaya giriş' kursu [MIT OpenCourseWare](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/references/)
-- 'Lyublyana Universiteti Sosial Elmlər Fakultəsində "Proqramlaşdırmanın əsasları", Sloveniya' -- [Aleš Žiberna](mailto:ales.ziberna@fdv.uni-lj.si) says _"I (and my predecessor) have been using your book as the main literature for this course"_
+- 'Lyublyana Universiteti Sosial Elmlər Fakultəsində "Proqramlaşdırmanın əsasları", Sloveniya' -- [Aleš Žiberna](mailto:ales.ziberna@fdv.uni-lj.si) deyir: _"Mən (və məndən öncəkilər) sizin kitabı bu kurs üçün əsas ədəbiyyat kimi istifadə edib."_
 
 ## Lisenziya
 
-Bu kitab [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) ilə lisenziylaşdırılıb.
+Bu kitab [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) ilə lisenziyalaşdırılıb.
 
 Bu o deməkdir ki:
 
-- You are free to Share i.e. to copy, distribute and transmit this book
-- You are free to Remix i.e. to make changes to this book (especially translations)
-- You are free to use it for commercial purposes
+- Bu kitabı paylaşmaqda yəni, surətini çıxarmaqda, paylamaqda, ötürməkdə azadsınız.
+- Bu kitabı yenidən tərtib etməkdə yəni, kitabı dəyişməkdə (xüsusilə tərcümə etməkdə) azadsınız.
+- Bu kitabı kommersial məqsədlərlə istifadə etməkdə azadsınız.
 
-Please note:
+Zəhmət olmasa nəzərə alın:
 
-- Please do *not* sell electronic or printed copies of the book unless you have clearly and prominently mentioned in the description that these copies are *not* from the original author of this book.
-- Attribution *must* be shown in the introductory description and front page of the document by linking back to {{ book.officialUrl }} and clearly indicating that the original text can be fetched from this location.
-- All the code/scripts provided in this book is licensed under the [3-clause BSD License](http://www.opensource.org/licenses/bsd-license.php) unless otherwise noted.
+- Xahiş edirik, təsvir hissəsində kitabın əsl müəllifdən *olmadığını* aydın və aşkar göstərmədən, kitabın elektron və ya çap variantını *satmayın*.
+- Kitabın giriş təsvirində və üz qabığında {{ book.officialUrl }} istinad edərək səlahiyyət *göstərilməli* və əsl mətnin bu yerdən əldə edilə biləcəyi aydın bildirilməlidir.
+- Bu kitabda göstərilən bütün proqram kodları digər lisenziya qeyd edilənə qədər [BSD Lisenziyasının 3-cü bəndi](http://www.opensource.org/licenses/bsd-license.php) ilə lisenziyalaşdırılıb.
 
-## Read Now
+## İndi oxu
 
-You can read it online at {{ book.officialUrl }}
+Bunu {{ book.officialUrl }} ünvanından onlayn oxuya bilərsiniz.
 
-## Buy The Book
+## Kitabı al
 
-A printed hardcopy of the book can be purchased at {{ book.buyBookUrl }} for your offline reading pleasure, and to support the continued development and improvement of this book.
+Sizin oflayn oxu rahatlığınız və kitabın davamlı inkişafı və təkmilləşməsinə dəstək üçün, kitabın çap olunmuş nəşri {{ book.buyBookUrl }} ünvanından alına bilər.
 
-## Download
+## Yüklə
 
-Visit {{ book.downloadUrl }} for the following types of downloads:
+Aşağıdakı yükləmə formalarından biri üçün {{ book.downloadUrl }} ünvanına daxil olun:
 
-- [PDF (for desktop reading, etc.)](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python)
-- [EPUB (for iPhone/iPad, ebook readers, etc.)](https://www.gitbook.com/download/epub/book/swaroopch/byte-of-python)
-- [Mobi (for Kindle)](https://www.gitbook.com/download/mobi/book/swaroopch/byte-of-python)
+- [PDF (Masaüstü və s. oxu üçün)](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python)
+- [EPUB (iPhone/iPad, elektron kitab və s. üçün)](https://www.gitbook.com/download/epub/book/swaroopch/byte-of-python)
+- [Mobi (Kindle üçün)](https://www.gitbook.com/download/mobi/book/swaroopch/byte-of-python)
 
-Visit {{ book.sourceUrl }} for the raw content (for suggesting corrections, changes, translating, etc.)
+Xam mətn üçün (düzəliş təklifi, dəyişiklik, tərcümə və s. üçün) {{ book.sourceUrl }} ünvanına daxil olun.
 
-## Read the book in your native language
+## Kitabı öz dilinizdə oxuyun
 
-If you are interested in reading or contributing translations of this book to other human languages, please see "Translations" chapter.
+Əgər kitabı digər insan dilində oxumağa və ya tərcüməsinə töhvə verməyə maraqlısınızsa, zəhmət olmasa "Tərcümələr" bölməsinə baxın.
