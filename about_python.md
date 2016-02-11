@@ -1,22 +1,20 @@
-# About Python
+# Piton haqqında
 
-Python is one of those rare languages which can claim to be both _simple_ and _powerful_.  You will find yourself pleasantly surprised to see how easy it is to concentrate on the solution to the problem rather than the syntax and structure of the language you are programming in.
+Piton o nadir dillərdəndir ki, həm _sadə_, həm də _güclü_ olmağa iddialı ola bilər. Diqqətinizi proqramlaşdırdığınız dilin sintaksisi və strukturu əvəzinə problemin həllinə yönəltməyin necə asan olduğunu gördükdə təəccüblənəcəksiniz.
 
-The official introduction to Python is:
+Pitona rəsmi giriş belədir
 
-> Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python's elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms.
+> Piton öyrənilməsi asan, güclü proqramlaşdırma dilidir. Onun effektiv, yüksək səviyyəli verilənlərin strukturları və obyekt yönümlü proqramlaşdırmaya sadə, lakin effektiv yanaşması vardır. Pitonun eleqant sintaksisi və dinamik tipləşdirməsi, interpretasiya təbiəti ilə birlikdə onu müxtəlif sahələrdə və əksər platformalarda skriptləşdirmə və proqram təminatının sürətli yaradılması üçün ideal dilə çevirir.
 
-I will discuss most of these features in more detail in the next section.
+Bu imkanların əksəriyyətini daha detallı növbəti bölümlərdə müzakirə edəcəyik.
 
-## Story behind the name
+## Adla bağlı
 
-Guido van Rossum, the creator of the Python language, named the language after the BBC show "Monty
-Python's Flying Circus". He doesn't particularly like snakes that kill animals for food by winding
-their long bodies around them and crushing them.
+Piton dilinin yara Quido van Rossum dili BBC-də "Monty Python's Flying Circus" şousundan ilhamlanaraq adlandırıb. O, xüsusən də yemək üçün uzun bədəni ilə heyvanlara sarılaraq əzən ilanları xoşlamır.
 
-## Features of Python
+## Pitonun imkanları
 
-### Simple
+### Sadədir
 
 Python is a simple and minimalistic language. Reading a good Python program feels almost like reading English, although very strict English! This pseudo-code nature of Python is one of its greatest strengths. It allows you to concentrate on the solution to the problem rather than the language itself.
 
