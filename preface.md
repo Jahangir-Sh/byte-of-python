@@ -1,4 +1,4 @@
-# Preface
+# Ön söz
 
 Piton çox güman, az sayda proqramlaşdırma dillərindəndir ki, asan və güclüdür. Bu, həm yeni başlayanlar üçün həm də mütəxəssislər üçün yaxşıdır və ən vacibi odur ki, onunla proqramlaşdırmaq əyləncəlidir. Kitabın məqsədi bu möhtəşəm dili öyrənməkdə sizə yardımçı olmaq və işləri necə tez və əzab çəkmədən etməyi göstərməkdir - özü-özlüyündə "Proqramlaşdırma problemlərinizə anti-zəhər" kimidir.
 
