@@ -1,23 +1,23 @@
 # Preface
 
-Python is probably one of the few programming languages which is both simple and powerful. This is good for beginners as well as for experts, and more importantly, is fun to program with. This book aims to help you learn this wonderful language and show how to get things done quickly and painlessly - in effect 'The Anti-venom to your programming problems'.
+Piton çox güman, az sayda proqramlaşdırma dillərindəndir ki, asan və güclüdür. Bu, həm yeni başlayanlar üçün həm də mütəxəssislər üçün yaxşıdır və ən vacibi odur ki, onunla proqramlaşdırmaq əyləncəlidir. Kitabın məqsədi bu möhtəşəm dili öyrənməkdə sizə yardımçı olmaq və işləri necə tez və əzab çəkmədən etməyi göstərməkdir - özü-özlüyündə "Proqramlaşdırma problemlərinizə anti-zəhər" kimidir.
 
-## Who This Book Is For
+## Kitab kimlər üçündür?
 
-This book serves as a guide or tutorial to the Python programming language. It is mainly targeted at newbies. It is useful for experienced programmers as well.
+Bu kitab Piton proqramlaşdırma dilinin öyrədicisi və ya soraqçası kimi istifadə edilə bilər. Əsasən yeni başlayanlara hədəflənib. Həmçinin, təcrübəli proqramçılar üçün də faydalıdır.
 
-The aim is that if all you know about computers is how to save text files, then you can learn Python from this book. If you have previous programming experience, then you can also learn Python from this book.
+Əgər kompyuter barədə bilikləriniz mətn fayllarının yaddaşa verilməsindən ibarətdirsə, onda siz Pitonu bu kitabdan öyrənə bilərsiniz. Əgər sizin proqramlaşdırma təcrübəniz varsa, siz də Pitonu bu kitabdan öyrənə bilərsiniz.
 
-If you do have previous programming experience, you will be interested in the differences between Python and your favorite programming language - I have highlighted many such differences. A little warning though, Python is soon going to become your favorite programming language!
+Əgər sizin proqramlaşdırma təcrübəniz varsa, yəqin ki, sizi Pitonla sevimli proqramlaşdırma diliniz arasında fərqlər maraqlandıracaq - mən onların bir çoxunu göstərmişəm. Kiçik narahatlıq budur ki, Piton qısa zamanda sizin sevimli proqramlaşdırma dilinizə çevriləcəkdir!
 
-## Official Website
+## Rəsmi veb sayt
 
-The official website of the book is {{ book.officialUrl }} where you can read the whole book online, download the latest versions of the book, [buy a printed hard copy]({{ book.buyBookUrl }}) and also send me feedback.
+Kitabın rəsmi veb səhifəsi {{ book.officialUrl }} ünvanındadır, buradan siz bütün kitabı onlayn oxuya, kitabın son versiyasını endirə və [çap nüsxəsini ala]({{ book.buyBookUrl }}) həmçinin rəyinizi mənə göndərə bilərsiniz.
 
-## Something To Think About
+## Düşüncə üçün qida
 
-> There are two ways of constructing a software design: one way is to make it so simple that there are obviously no deficiencies; the other is to make it so complicated that there are no obvious deficiencies. -- C. A. R. Hoare
+> Proqam dizaynı qurmağın iki yolu var: bir yol bunu aşkar çatışmazlıq olmayacaq qədər sadə etməkdir; digəri isə  aşkar çatışmazlıq olmayacaq qədər mürəkkəb etməkdir. -- C. A. R. Hoare
 
 <!-- -->
 
-> Success in life is a matter not so much of talent and opportunity as of concentration and perseverance. -- C. W. Wendte
+> Həyatdakı uğurda əsas məsələ istedad və imkanda deyil, qətiyyətlilik və diqqəti toplamaqdadır. -- C. W. Wendte
